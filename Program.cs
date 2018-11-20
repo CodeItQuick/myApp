@@ -29,6 +29,8 @@ namespace myApp
             //Setup a dictionary called tuplets that stores the tuplet and the count number (which is stored as a string)
             Dictionary<string, string> tuplets = new Dictionary<string, string>();
 
+            int index = 0;
+
             //Loop through all the parts of the input.
             foreach (string part in parts)
             {
