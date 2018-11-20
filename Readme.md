@@ -1,0 +1,1 @@
+The program when run through visual studio will produce the desired output. The input is hardcoded in, but in the future an input may able to be taken. The other branch (development) is the start of such a program, but isn't finished.
