@@ -17,10 +17,11 @@ namespace myApp
             Console.WriteLine(tripletsToString(input));
         }
 
-        static String tripletsToString(String input) 
+        static String tripletsToString(String inputString) 
         {
             //There are some edge cases - no space before the first word, and no space after the last. I added these two things to take care of them.
-            input = " " + input + " EOF";
+            //Declare new string to avoid side-effects
+            String input = " " + inputString + " EOF";
 
             //Split the string by the punctuation.
             string[] parts = Regex.Split(input.Substring(0, input.Length - 1), @"(?<=[.,?])");
