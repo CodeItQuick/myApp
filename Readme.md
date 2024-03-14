@@ -3,7 +3,7 @@ I was interviewed for a webdev job 6 years ago. This was my submission at the ti
 
 I blamed the interviewer/company for my failure for at least 4 years, until the day I revisited this codebase and checked the code.
 Oh boy was I disappointed. The code is pretty terrible. After revisiting I wrote the solution (in javascript because who has time really)
-to the problem presented. Might have taken me 30 minutes; I don't remember anymore. The first solution I spent an entire day on,
+to the problem presented. Reading from the comments in the code, this took approx. 20 minutes. The first solution I spent an entire day on,
 I doubt it even runs, and I honestly lack the courage to run the code I originally wrote.
 
 # Original README
